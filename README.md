@@ -11,3 +11,5 @@ Junte-se ao **Cookly** hoje e torne a culinária mais social! 🍽️📸🔥
 
 ![Imagem ilustrativa](assets/images/Mask-group.png)
 
+![Imagem ilustrativa](assets/images/Mask-group1.png)
+
