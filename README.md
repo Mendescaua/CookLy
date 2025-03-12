@@ -9,4 +9,4 @@ Compartilhe suas melhores receitas, descubra pratos de outros cozinheiros e salv
 
 Junte-se ao **Cookly** hoje e torne a culinária mais social! 🍽️📸🔥
 
-![Imagem ilustrativa1](assets/images/Mask group.png)
+![Imagem ilustrativa1](https://github.com/Mendescaua/CookLy/issues/1)
