@@ -8,3 +8,5 @@ Compartilhe suas melhores receitas, descubra pratos de outros cozinheiros e salv
 ✅ Salve suas receitas favoritas para acessar depois   
 
 Junte-se ao **Cookly** hoje e torne a culinária mais social! 🍽️📸🔥
+
+![Imagem ilustrativa1](assets/images/Mask group.png)
